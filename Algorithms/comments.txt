@@ -1,0 +1,2 @@
+this is the comments box for algorithm in image processing using mathlab.
+image processing is the branch of artificial inteligence. it can be called also a branch of machine learning.machine learning is the branch of AI
