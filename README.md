@@ -1,1 +1,6 @@
-# image-processing-using-matglabthis  this is th read nefor image processing no details included 
+Image processing using mathlab.
+-----SELIM AHMAD-------
+EMAIL: selim.cse.mu@gmail.com
+PHONE: +8801721509374
+SCHOOL OF SCIENCE AND TECHNOLOGY
+METROPOLITAN UNIVERSITY,SYLHET
