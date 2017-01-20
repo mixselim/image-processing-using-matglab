@@ -1,4 +1,4 @@
-Image processing using mathlab.
+Image processing using matlab.
 -----SELIM AHMAD-------
 EMAIL: selim.cse.mu@gmail.com
 PHONE: +8801721509374
